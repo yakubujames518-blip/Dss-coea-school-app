@@ -1,0 +1,7 @@
+# This is a gitignore file for Python projects.
+*.pyc
+__pycache__/
+venv/
+.env
+*.pdb
+*.egg-info/
